@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-🔭 Working on - Building TrendIt, Planora & PresentIQ, contributing to open source, and sharing my coding journey.<br>👯 Collaborate on - Open-source web & systems projects (frontend, backend, dev tools).<br>🤝 Help with - Project feedback and mentorship in systems, GPU, embedded & DevOps.<br>🌱 Learning - Performance, security, scalable systems & AI (Deep Learning).<br>⚡ Fun fact - I love swimming and traveling beyond code. 🌊✈️
+🔭 Working on - Building TrendIt, Planora & PresentIQ, contributing to open source, and sharing my coding journey.<br>👯 Collaborate on - Open-source web & systems projects (frontend, backend, dev tools).<br>🤝 Help with - Project feedback and mentorship in systems, GPU, embedded & DevOps.<br>🌱 Learning - Performance, security, scalable systems & AI (Deep Learning).<br>⚡ Fun fact - I love swimming🏊‍♂️ and traveling beyond code. 🌊✈️
 
 
 # 🌐 Socials:
